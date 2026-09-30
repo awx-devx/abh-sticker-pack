@@ -2,7 +2,7 @@
 
 A locally bundled Three.js experience using the four original supplied Figma exports.
 
-Serve `dist/` with any static web server. No build step or remote runtime dependencies.
+Serve `docs/` with any static web server, or open the published GitHub Pages site. No build step or remote runtime dependencies.
 
 ## Material
 
